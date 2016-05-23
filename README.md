@@ -9,7 +9,7 @@ Basic Gulp scss and js compilation.
 
 ## Usage
 
-Clone repository. Change all instances of APP_NAME to your project's name. The contents of the following files will have to get APP_NAME replaced:
+Clone the repository. Change all instances of APP_NAME to your project's name. The contents of the following files will need to have APP_NAME replaced:
 
 * /javascript/APP_NAME.js
 * /scss/APP_NAME.scss
